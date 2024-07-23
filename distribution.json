@@ -11,8 +11,8 @@
       "id": "Segu Land-1.20.1",
       "name": "Segu Land (Minecraft 1.20.1)",
       "description": "Segu Land Running Minecraft 1.20.1 (Fabric v0.15.11)",
-      "icon": null,
-      "version": "1.0.0",
+      "icon": "https://github.com/YoonD43/SEGULand-distro/raw/main/server-icon.png",
+      "version": "1.0.1",
       "address": "222.98.146.13",
       "minecraftVersion": "1.20.1",
       "discord": {
